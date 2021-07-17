@@ -8,6 +8,8 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+
     <groupId>pl.sda</groupId>
     <artifactId>spring-boot-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>

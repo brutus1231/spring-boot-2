@@ -6,4 +6,5 @@ import pl.sda.model.PersonEntity;
 
 @Repository
 public interface PersonRepository extends JpaRepository<PersonEntity, Long> {
+
 }
